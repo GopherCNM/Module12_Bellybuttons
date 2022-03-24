@@ -1,0 +1,29 @@
+body {
+  background-color: lightblue;
+}
+
+.jumbotron {
+    background-image: url("../images/bacteria.png");
+    background-size: auto;
+    color: whitesmoke;
+    text-align: center;
+    text-shadow: 2px 2px 5px
+  }
+
+  #bar {
+    outline-style: outset;
+    outline-color: dimgray;
+    outline-width: thin
+  }
+
+  #gauge {
+    outline-style: outset;
+    outline-color: dimgray;
+    outline-width: thin
+  }
+
+  #bubble {
+    outline-style: outset;
+    outline-color: dimgray;
+    outline-width: thin
+  }
